@@ -1,3 +1,6 @@
 [submodule "bayesian-ab"]
 	path = bayesian-ab
 	url = https://github.com/Arngren/bayesian-ab-test
+[submodule "playground"]
+	path = playground
+	url = https://github.com/mtrencseni/playground
