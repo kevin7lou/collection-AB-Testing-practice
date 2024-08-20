@@ -1,0 +1,3 @@
+[submodule "bayesian-ab"]
+	path = bayesian-ab
+	url = https://github.com/Arngren/bayesian-ab-test
