@@ -4,3 +4,6 @@
 [submodule "playground"]
 	path = playground
 	url = https://github.com/mtrencseni/playground
+[submodule "udacity-ab"]
+	path = udacity-ab
+	url = https://github.com/alan-chengzhang/Udacity-A-B-Testing_-Notes-and-Final-Project
